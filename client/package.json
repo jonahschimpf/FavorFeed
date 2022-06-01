@@ -11,7 +11,7 @@
     "mongoose": "^5.9.7",
     "pbkdf2": "^3.0.17",
     "request": "^2.88.2",
-    "sharp": "^0.25.2",
+    "sharp": "^0.30.5",
     "zingchart": "^2.9.0"
   },
   "devDependencies": {},
